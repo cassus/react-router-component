@@ -9,11 +9,11 @@
     "urllite": "~0.4.0"
   },
   "peerDependencies": {
-    "react": "~0.10.0",
+    "react": ">=0.10.0",
     "react-async": "~0.9.1"
   },
   "devDependencies": {
-    "react": "~0.10.0",
+    "react": ">=0.10.0",
     "react-async": "~0.9.1",
     "semver": "~2.2.1",
     "mocha": "~1.17.1",
